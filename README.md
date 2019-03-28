@@ -24,7 +24,7 @@
 
 The e-BioDigit database comprises **on-line handwritten numerical digits from 0 to 9** acquired using a Samsung Galaxy Note 10.1 general purpose tablet for a total of 93 users. All samples were acquired **using the finger touch as input** so only information related to X and Y spatial coordinates are considered. Regarding the acquisition protocol, data subjects had to perform handwritten numerical digits from 0 to 9 one at a time. Some examples of the handwritten numerical digits acquired for the e-BioDigit database are depicted in Figure 1. Additionally, **samples were collected in two sessions with a time gap of at least three weeks between them** in order to consider inter-session variability, very important for behavioural biometric traits. For each session, users had to perform a total of 4 numerical sequences from 0 to 9. Therefore, **there are a total of 8 samples per numerical digit and user**. The software for capturing handwritten numerical digits was developed in order to minimize the variability of the user during the acquisition process. **A rectangular area with a writing surface size similar to a 5-inch screen smartphone was considered**. A horizontal line was represented in the bottom part of the rectangular area, including two buttons OK and Cancel to press after writing if the sample was good or bad respectively. If the sample was not good, then it was repeated.
 
-![](http://atvs.ii.uam.es/atvs/e_BioDigitDB_acquisition.PNG)
+![]( http://atvs.ii.uam.es/atvs/e_BioDigitDB_acquisition.png )
 
 
 Figure 1. Examples of different handwritten numerical digits of the e-BioDigit database. X and Y denote horizontal and vertical position versus the time samples. [CVPR2018_OTP].
