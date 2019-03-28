@@ -24,9 +24,8 @@
 
 The e-BioDigit database comprises **on-line handwritten numerical digits from 0 to 9** acquired using a Samsung Galaxy Note 10.1 general purpose tablet for a total of 93 users. All samples were acquired **using the finger touch as input** so only information related to X and Y spatial coordinates are considered. Regarding the acquisition protocol, data subjects had to perform handwritten numerical digits from 0 to 9 one at a time. Some examples of the handwritten numerical digits acquired for the e-BioDigit database are depicted in Figure 1. Additionally, **samples were collected in two sessions with a time gap of at least three weeks between them** in order to consider inter-session variability, very important for behavioural biometric traits. For each session, users had to perform a total of 4 numerical sequences from 0 to 9. Therefore, **there are a total of 8 samples per numerical digit and user**. The software for capturing handwritten numerical digits was developed in order to minimize the variability of the user during the acquisition process. **A rectangular area with a writing surface size similar to a 5-inch screen smartphone was considered**. A horizontal line was represented in the bottom part of the rectangular area, including two buttons OK and Cancel to press after writing if the sample was good or bad respectively. If the sample was not good, then it was repeated.
 
-![](http://atvs.ii.uam.es/atvs/digito_0.png )
+![](http://atvs.ii.uam.es/atvs/e_BioDigitDB_acquisition.PNG)
 
-![](http://atvs.ii.uam.es/atvs/digito_2.png )
 
 Figure 1. Examples of different handwritten numerical digits of the e-BioDigit database. X and Y denote horizontal and vertical position versus the time samples. [CVPR2018_OTP].
 
@@ -59,6 +58,8 @@ Finally, handwritten numerical digits are organized into "session_1" and "sessio
 
 #### REFERENCES
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the  [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage.) 
++ [TMC2019_OTP] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, "BioTouchPass: Handwritten Passwords for Touchscreen Biometrics", IEEE Transactions on Mobile Computing, 2019. (under review).
+
 + [CVPR2018_OTP] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Incorporating Touch Biometrics to Mobile One-Time Passwords: Exploration of Digits.", in Proc. IEEE Conf. on Computer Vision and Pattern Recognition Workshops, CVPRW, Salt Lake City, USA, 2018..
 
 Please remember to reference articles [CVPR2018_OTP] on any work made public, whatever the form, based directly or indirectly on any part of the e-BioDigit Database.
