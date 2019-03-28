@@ -27,7 +27,7 @@ The e-BioDigit database comprises **on-line handwritten numerical digits from 0 
 ![]( http://atvs.ii.uam.es/atvs/e_BioDigitDB_acquisition.png )
 
 
-Figure 1. Examples of different handwritten numerical digits of the e-BioDigit database. X and Y denote horizontal and vertical position versus the time samples. [CVPR2018_OTP].
+Figure 1. (a) Acquisition setup. (b-d) examples of different handwritten numerical digits of the e-BioDigit database. X and Y denote horizontal and vertical position versus the time samples.
 
 
 #### FILES FORMAT
