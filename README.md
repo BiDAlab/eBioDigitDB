@@ -1,13 +1,13 @@
 # eBioDigitDB
 
 
-## INSTRUCTIONS FOR DOWNLOADING e-BioDigit DB 
+## INSTRUCTIONS FOR DOWNLOADING e-BioDigitDB 
 1) [Download license agreement](http://atvs.ii.uam.es/atvs/licenses/e-BioDigit_License.pdf), send by email one signed and scanned copy to **atvs@uam.es** according to the instructions given in point 2.
  
  
 2) Send an email to **atvs@uam.es**, as follows:
 
-   *Subject:* **[DATABASE download: e-BioDigit DB ]**
+   *Subject:* **[DATABASE download: e-BioDigitDB ]**
 
    Body: Your name, e-mail, telephone number, organization, postal mail, purpose for which you will use the database, time and date at which you sent the email with the signed license agreement.
  
@@ -20,7 +20,7 @@
 
 5) For more information, please contact: **atvs@uam.es**
 
-## DESCRIPTION OF e-BioDigit DB
+## DESCRIPTION OF e-BioDigitDB
 
 The e-BioDigit database comprises **on-line handwritten numerical digits from 0 to 9** acquired using a Samsung Galaxy Note 10.1 general purpose tablet for a total of 93 users. All samples were acquired **using the finger touch as input** so only information related to X and Y spatial coordinates are considered. Regarding the acquisition protocol, data subjects had to perform handwritten numerical digits from 0 to 9 one at a time. Some examples of the handwritten numerical digits acquired for the e-BioDigit database are depicted in Figure 1. Additionally, **samples were collected in two sessions with a time gap of at least three weeks between them** in order to consider inter-session variability, very important for behavioural biometric traits. For each session, users had to perform a total of 4 numerical sequences from 0 to 9. Therefore, **there are a total of 8 samples per numerical digit and user**. The software for capturing handwritten numerical digits was developed in order to minimize the variability of the user during the acquisition process. **A rectangular area with a writing surface size similar to a 5-inch screen smartphone was considered**. A horizontal line was represented in the bottom part of the rectangular area, including two buttons OK and Cancel to press after writing if the sample was good or bad respectively. If the sample was not good, then it was repeated.
 
