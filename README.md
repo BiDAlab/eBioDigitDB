@@ -37,13 +37,13 @@ The handwritten numerical digits are stored in text files, where:
 
 + ROWS 2 to (N+1): 
 
-  + COLUMN 1: represents the x coordinate.
+  + COLUMN 1: represents the X coordinate.
 
-  + COLUMN 2: represents the y coordinate.
+  + COLUMN 2: represents the Y coordinate.
 
   + COLUMN 3: this is a synthetic timestamp.
 
-  + COLUMN 4: represents the pressure (p) function. All values are set to 255 as this information is not available when using the finger touch.
+  + COLUMN 4: represents the pressure function. All values were set to 255 as this information was not available when using the finger touch.
 
 #### FILES NOMENCLATURE
 The nomenclature followed to name the numerical digit files is as follows: uAAA_digit_B_CCC.txt
@@ -58,8 +58,12 @@ Finally, handwritten numerical digits are organized into "session_1" and "sessio
 
 #### REFERENCES
 For further information on the database and on different applications where it has been used, we refer the reader to (all these articles are publicly available in the  [publications](http://atvs.ii.uam.es/atvs/listpublications.do) section of the BiDA group webpage.) 
-+ [TMC2019_OTP] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, "BioTouchPass: Handwritten Passwords for Touchscreen Biometrics", IEEE Transactions on Mobile Computing, 2019. (under review).
++ [TMC2019_OTP] R. Tolosana, R. Vera-Rodriguez, and J. Fierrez, "BioTouchPass: Handwritten Passwords for Touchscreen Biometrics", IEEE Transactions on Mobile Computing, 2019.
 
 + [CVPR2018_OTP] R. Tolosana, R. Vera-Rodriguez, J. Fierrez and J. Ortega-Garcia, "Incorporating Touch Biometrics to Mobile One-Time Passwords: Exploration of Digits.", in Proc. IEEE Conf. on Computer Vision and Pattern Recognition Workshops, CVPRW, Salt Lake City, USA, 2018..
 
-Please remember to reference articles [CVPR2018_OTP] on any work made public, whatever the form, based directly or indirectly on any part of the e-BioDigit Database.
+
+
+Please remember to reference articles [TMC2019_OTP, CVPR2018_OTP] on any work made public, whatever the form, based directly or indirectly on any part of the e-BioDigitDB database.
+
+
